@@ -31,6 +31,6 @@ These sessions include practical exercises and implementations for various tasks
 
 ## Practical Sessions (TPs)
 
-### TP 1 - Introduction to Quartus and FPGA Design
+### [TP 1 - Introduction to Quartus and FPGA Design](./TP1/)
 
 Feel free to explore and contribute if you have any suggestions or improvements.
