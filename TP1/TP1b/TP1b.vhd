@@ -3,8 +3,8 @@ use ieee.std_logic_1164.all;
 
 entity TP1b is
 	port (
-		in_sig: in std_logic_vector(6 downto 0);
-		out_sig: out std_logic_vector(6 downto 0)
+		in_sig  : in  std_logic_vector(6 downto 0);
+		out_sig : out std_logic_vector(6 downto 0)
 	);
 end TP1b;
 
@@ -22,7 +22,7 @@ begin
 			in_sig_d  => in_sig(2 downto 0),
 			out_sig_d => lettre
 		);
-		
+
 	MUX: entity work.mux
 		port map (
 			in_mux_1 => nombre,
@@ -30,4 +30,5 @@ begin
 			in_sel   => in_sig(6),
 			out_mux  => out_sig
 		);
+
 end arch_main;

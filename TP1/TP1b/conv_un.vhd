@@ -3,8 +3,8 @@ use ieee.std_logic_1164.all;
 
 entity conv_un is
 	port (
-		in_sig: in std_logic_vector(2 downto 0);
-		out_sig: out std_logic_vector(6 downto 0)
+		in_sig  : in  std_logic_vector(2 downto 0);
+		out_sig : out std_logic_vector(6 downto 0)
 	);
 end conv_un;
 
