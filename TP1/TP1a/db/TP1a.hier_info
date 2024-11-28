@@ -1,6 +1,0 @@
-|TP1a
-sw[0] => ledr.IN0
-sw[1] => ledr.IN1
-ledr[0] << ledr.DB_MAX_OUTPUT_PORT_TYPE
-
-
