@@ -33,4 +33,6 @@ These sessions include practical exercises and implementations for various tasks
 
 ### [TP 1 - Introduction to Quartus and FPGA Design](./TP1/)
 
+### [TP 2 - Design of a 4-Bit Adder and Adder/Subtractor on FPGA](./TP2/)
+
 Feel free to explore and contribute if you have any suggestions or improvements.
