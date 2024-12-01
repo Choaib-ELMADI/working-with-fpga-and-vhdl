@@ -2,13 +2,23 @@
 
 # Working with FPGA and VHDL
 
-This repository contains my hands-on work and practical sessions (TPs) with FPGA and VHDL. As part of my learning process, I am documenting each practical session, using the `ALTERA Cyclone V SoC DE-1 SoC` board.
+This repository contains my hands-on work and practical sessions (TPs) with FPGA and VHDL. As part of my learning process, I am documenting each practical session, using the `ALTERA Cyclone V DE-1 SoC` board.
 
 These sessions include practical exercises and implementations for various tasks such as hardware design and VHDL coding for FPGA. The repository will be continuously updated as I progress with more sessions.
 
 <div align="center">
 
-![ALTERA Cyclone V SoC DE-1 SoC Board](./Images/altera-cyclone-v-soc-de-1-board.png)
+![ALTERA Cyclone V DE-1 SoC Board](./Images/altera-cyclone-v-de-1-soc-board.png)
+
+</div>
+
+## ALTERA Cyclone V DE-1 SoC Board
+
+The DE-1 SoC board is a `D`evelopment and `E`ducation board that integrates an ALTERA SoC FPGA with an embedded ARM processor. It is included as an education platform in the ALTERA University Program. Here is the board block diagram:
+
+<div align="center">
+
+![ALTERA Cyclone V DE-1 SoC Board](./Images/de1-soc-diagram.png)
 
 </div>
 
