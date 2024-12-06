@@ -45,4 +45,6 @@ The DE-1 SoC board is a `D`evelopment and `E`ducation board that integrates an A
 
 ### [TP 2 - Design of a 4-Bit Adder and Adder/Subtractor on FPGA](./TP2/)
 
+### [TP 3 - Finite State Machine for Traffic Light Control](./TP3/)
+
 Feel free to explore and contribute if you have any suggestions or improvements.
