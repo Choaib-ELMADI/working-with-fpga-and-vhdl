@@ -47,4 +47,6 @@ The DE-1 SoC board is a `D`evelopment and `E`ducation board that integrates an A
 
 ### [TP 3 - Finite State Machine for Traffic Light Control](./TP3/)
 
+### [TP 4 - Simple Processor](./TP4/)
+
 Feel free to explore and contribute if you have any suggestions or improvements.
