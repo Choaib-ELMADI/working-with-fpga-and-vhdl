@@ -1,4 +1,4 @@
-[![Choaib ELMADI - FPGA](https://img.shields.io/badge/Choaib_ELMADI-FPGA-8800dd)](https://elmadichoaib.vercel.app) ![Status - Learning](https://img.shields.io/badge/Status-Learning-2bd729)
+[![Choaib ELMADI - FPGA](https://img.shields.io/badge/Choaib_ELMADI-FPGA-8800dd)](https://elmadichoaib.vercel.app) ![Status - Learning](https://img.shields.io/badge/Status-Learning-2bd729) ![Platform - DE1-SoC](https://img.shields.io/badge/Platform-DE1--SoC-f7d620)
 
 # Working with FPGA and VHDL
 
